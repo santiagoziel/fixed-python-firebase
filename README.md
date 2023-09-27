@@ -10,4 +10,4 @@ To use this modified version of Python Firebase, you can clone this repository o
 
 ## Disclaimer
 Use at your own risk: This repository is not officially maintained, and I do not actively provide support for it. I created these modifications to address specific issues I encountered in my projects, and I'm sharing them in case they are useful to others. However, I cannot guarantee that this code is error-free or that it will meet your specific requirements. You are welcome to use it, but please be aware of the potential risks and limitations.
-For all intnets and purposes you should probalby star by taking a look at [the official Python SDK](https://pypi.org/project/firebase/)
+For all intents and purposes you should probalby star by taking a look at [the official Python SDK](https://pypi.org/project/firebase/)
